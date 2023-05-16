@@ -5,14 +5,21 @@ change from testing branch
 change from f1 branch
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 change from main conflict
 
 =======
 change from f1 conflict
 >>>>>>> f1
 =======
+=======
+>>>>>>> f1
 change from main conflict
 
 change from f1 conflict
 change from f1
+<<<<<<< HEAD
 >>>>>>> e81d54d (chang2)
+=======
+change2 from f1
+>>>>>>> f1
