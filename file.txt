@@ -3,5 +3,9 @@ asd
 asd22
 change from testing branch
 change from f1 branch
+<<<<<<< HEAD
 change from main conflict
 
+=======
+change from f1 conflict
+>>>>>>> f1
